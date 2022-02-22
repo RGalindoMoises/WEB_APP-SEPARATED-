@@ -1,6 +1,6 @@
 const express = require('express')
 const mongoose = require('mongoose')
-const url = 'mongodb+srv://RGMoises:noshka@webapi.ls0ro.mongodb.net/usuarios?retryWrites=true&w=majority'
+const url = 
 
 const app = express()
 const port = process.env.port || 3000
